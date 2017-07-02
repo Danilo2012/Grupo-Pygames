@@ -15,10 +15,8 @@ Debes tener instalado python y pygame en tu computadora.
 
 1.Descarga nuestro archivo.
 2.Extrae el WinRAR.
-3.En la carpeta donde se extrajo el juego deberás dar shif+clic derecho, en el
-menú que se despliega selecciona la opción "Abrir ventana de comandos aquí"
-4.Abierta la ventana de comandos deberás escribir "python" dar un espacio y
-arrastrar el archivo con extension py a la consola de comandos.
+3.En la carpeta donde se extrajo el juego deberás dar shif+clic derecho, en el menú que se despliega selecciona la opción "Abrir ventana de comandos aquí"
+4.Abierta la ventana de comandos deberás escribir "python" dar un espacio y arrastrar el archivo con extension py a la consola de comandos.
 5.Ahora dar enter y se iniciara el juego.   
 6.Diviértete con tus amigos y compite por ser el mejor!
 
