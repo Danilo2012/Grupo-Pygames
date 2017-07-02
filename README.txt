@@ -1,6 +1,6 @@
-SPACE INVADER
+SPACE INVADERS
 
-¡El mundo es atacado pero tú puedes salvarlo! sube a tu nave espacial y lucha
+Â¡El mundo es atacado pero tÃº puedes salvarlo! sube a tu nave espacial y lucha
 contra la flota marciana pero no olvides que solo tienes cuatro vidas.
 
 Controles: 
@@ -15,12 +15,12 @@ Debes tener instalado python y pygame en tu computadora.
 
 1.Descarga nuestro archivo.
 2.Extrae el WinRAR.
-3.En la carpeta donde se extrajo el juego deberás dar shif+clic derecho, en el
-menú que se despliega selecciona la opción "Abrir ventana de comandos aquí"
-4.Abierta la ventana de comandos deberás escribir "python" dar un espacio y
+3.En la carpeta donde se extrajo el juego deberÃ¡s dar shif+clic derecho, en el
+menÃº que se despliega selecciona la opciÃ³n "Abrir ventana de comandos aquÃ­"
+4.Abierta la ventana de comandos deberÃ¡s escribir "python" dar un espacio y
 arrastrar el archivo con extension py a la consola de comandos.
 5.Ahora dar enter y se iniciara el juego.   
-6.Diviértete con tus amigos y compite por ser el mejor!
+6.DiviÃ©rtete con tus amigos y compite por ser el mejor!
 
-Integrantes: Danilo Barón Rodríguez cod.20121020091
-             Fabian Enrique Niño cod.20121020058
+Integrantes: Danilo BarÃ³n RodrÃ­guez cod.20121020091
+             Fabian Enrique NiÃ±o cod.20121020058
